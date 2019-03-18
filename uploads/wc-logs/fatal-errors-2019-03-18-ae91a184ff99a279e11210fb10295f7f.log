@@ -44,3 +44,15 @@
 
 2019-03-18T16:16:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\template.php on line 12
 
+2019-03-18T18:46:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php on line 837
+
+2019-03-18T18:46:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\enfold\functions-enfold.php on line 10
+
+2019-03-18T18:46:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore_PostTypeRegistrar.php on line 7
+
+2019-03-18T18:46:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\enfold\config-layerslider\LayerSlider\classes\class.ls.posts.php on line 3
+
+2019-03-18T18:46:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\hr\hr.php on line 9
+
+2019-03-18T18:47:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\media.php on line 16
+
